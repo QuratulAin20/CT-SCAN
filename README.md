@@ -1,1 +1,1 @@
-"# De-noising CT-SCAN-IMAGE" 
+# De-noising CT-SCAN-IMAGE 
