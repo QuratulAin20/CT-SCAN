@@ -1,4 +1,7 @@
 # De-noising CT-SCAN-IMAGE 
+![Uploading image.png…]()
+
+
 ## Workflow if you are working with Big Data
 ## 1. Data Preparation
 **1.1. Collect Data**
